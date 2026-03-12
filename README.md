@@ -4,10 +4,7 @@
 " />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
+## This is an end to end encrypted private messaging app which can be accessed without any phone number or identities like email you can chat with anyone anonymously
 View your app in AI Studio: https://ai.studio/apps/82b94eef-7c41-4806-ad6e-27f6bbeddcf0
 
 ## Run Locally
