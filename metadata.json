@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS",
+  "description": "Secure, anonymous, end-to-end encrypted messaging and video calls.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
